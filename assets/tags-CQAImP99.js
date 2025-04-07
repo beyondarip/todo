@@ -1,1 +1,0 @@
-import{J as e}from"./index-B8Wi_BLM.js";const r={getTags(){return e.get("tags/")},getTag(t){return e.get(`tags/${t}/`)},createTag(t){return e.post("tags/",t)},updateTag(t,a){return e.put(`tags/${t}/`,a)},deleteTag(t){return e.delete(`tags/${t}/`)}};export{r as t};
