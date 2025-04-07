@@ -1,0 +1,1 @@
+.focus-visible:focus{outline:2px solid #0c96e6;outline-offset:2px}[tabindex="0"]:focus{outline:none}.multiple-choice-option:before{content:attr(data-index);display:inline-block;min-width:1.5rem;margin-right:.5rem;text-align:center;font-size:.75rem;opacity:.7}
